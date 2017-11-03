@@ -241,10 +241,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3rmkfp-ajdg-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3rmkfp-ajdg-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p70taseul9u-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p70taseul9u-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -261,8 +261,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -291,8 +291,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -301,10 +301,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,

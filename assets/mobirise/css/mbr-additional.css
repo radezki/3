@@ -476,7 +476,10 @@ h6,
   color: #b8312f;
 }
 #header1-1 .mbr-section-lead {
-  color: #fac51c;
+  color: #ffffff;
+}
+#header1-1 .mbr-section-title SPAN {
+  color: #ffffff;
 }
 #header6-3 .mbr-section-title {
   color: #b8312f;

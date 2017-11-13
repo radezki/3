@@ -139,7 +139,10 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead": {
-              "color": "#fac51c"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
@@ -147,7 +150,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/vkawards-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -261,8 +264,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -291,8 +294,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/x-v91a547be-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -301,8 +304,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gmqg6pqywjg-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4pjhz7sbdtk-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
               }

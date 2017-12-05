@@ -481,14 +481,35 @@ h6,
 #header1-1 .mbr-section-title SPAN {
   color: #ffffff;
 }
+#header2-d .mbr-section-title {
+  text-align: left;
+}
+#header2-d .mbr-section-text {
+  text-align: left;
+}
 #header6-3 .mbr-section-title {
   color: #b8312f;
 }
 #header6-3 .mbr-section-text {
   color: #000000;
 }
+#instagram-feed-block-b .inst__title {
+  color: #ffffff;
+}
+#features6-4 P {
+  color: #ffffff;
+}
+#features6-4 H4 {
+  color: #f3c649;
+}
 #form1-5 .form-control-label {
   color: #232323;
+}
+#form1-5 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-5 SMALL {
+  color: #f7da64;
 }
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {

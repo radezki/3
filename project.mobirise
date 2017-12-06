@@ -25,7 +25,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 18,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -569,115 +569,51 @@
           }
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1377153688foto1-big-600x450.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1377153688foto1-big-600x450-600x450.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/logo-raif-2000x1413.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-raif-2000x1413-800x565.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/kirchberg-auchan-logo2-635x243.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kirchberg-auchan-logo2-635x243-635x243.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mac-cosmetics-400x400.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mac-cosmetics-400x400-383x239.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20170212145302-1264x695.png",
-                "thumb": "@PROJECT_PATH@/assets/images/20170212145302-1264x695-800x416.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mailservice-600x130.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mailservice-600x130-600x130.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3-1-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-1-2000x1500-800x470.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dior-logo-500x150.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dior-logo-500x150-500x150.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
           },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "МНЕ ДОВЕРЯЮТ:",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-a"
+          "_name": "header3",
+          "_anchor": "header3-h"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x700.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-f"
         },
         {
           "_tags": [

@@ -505,6 +505,10 @@ h6,
 #features6-4 H4 {
   color: #f3c649;
 }
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
 #form1-5 .form-control-label {
   color: #232323;
 }
